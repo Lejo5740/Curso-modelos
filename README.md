@@ -16,6 +16,6 @@ Software Estadístico: Se animará a los estudiantes a familiarizarse con el ent
 
 # Tareas
 
-[ ] Definir bases de datos a mostrar para los ejemplos prácticos
-[ ] Realizar diapositivas del curso
-[ ] Hacer los códigos completamente reproducibles
+* [ ] Definir bases de datos a mostrar para los ejemplos prácticos
+* [ ] Realizar diapositivas del curso
+* [ ] Hacer los códigos completamente reproducibles
